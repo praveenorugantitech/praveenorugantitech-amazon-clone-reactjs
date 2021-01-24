@@ -1,7 +1,8 @@
 # Amazon Clone with Stripe Payment developed using React JS and Firebase
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs-projects/master/praveenorugantitech-amazon-clone/src/images/screenshot.PNG "Amazon Clone")
-
+<div>
+<img align="right" width="100%"  src="./src/images/screenshot.PNG" />
+</div>
 
 [Live Demo](https://praveenoruganti-amaz.firebaseapp.com/)
 
