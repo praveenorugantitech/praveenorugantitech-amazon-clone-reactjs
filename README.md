@@ -1,4 +1,4 @@
-# Amazon Clone with Stripe Payment developed using React JS and Firebase
+# Amazon Clone developed with Stripe Payment developed using React JS, Material UI and Firebase
 
 <div>
 <img align="right" width="100%"  src="./src/images/screenshot.PNG" />
