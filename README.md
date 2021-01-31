@@ -8,7 +8,7 @@
 
 ### Live Demo
 
-[https://praveenoruganti-amaz.firebaseapp.com/](https://praveenoruganti-amaz.firebaseapp.com/)
+[https://praveenorugantitech-amaz-clone.firebaseapp.com/](https://praveenorugantitech-amaz-clone.firebaseapp.com/)
 
 
 ### Setup Local Instructions
