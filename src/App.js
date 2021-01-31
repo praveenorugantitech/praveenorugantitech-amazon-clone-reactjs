@@ -7,7 +7,7 @@ import Checkout from "./components/Checkout";
 import Login from "./components/Login";
 import Payment from "./components/Payment";
 import Orders from "./components/Orders";
-import { auth } from "./firebase";
+import { auth } from "./config/firebase";
 import { useStateValue } from "./context/StateProvider";
 import { loadStripe } from "@stripe/stripe-js";
 import { Elements } from "@stripe/react-stripe-js";

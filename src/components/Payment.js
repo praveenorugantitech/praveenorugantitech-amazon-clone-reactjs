@@ -7,7 +7,7 @@ import { CardElement, useStripe, useElements } from "@stripe/react-stripe-js";
 import CurrencyFormat from "react-currency-format";
 import { getBasketTotal } from "../context/reducer";
 import axios from '../axios';
-import { db } from "../firebase";
+import { db } from "../config/firebase";
 
 function Payment() {
     const [{ basket, user }, dispatch] = useStateValue();
