@@ -16,7 +16,6 @@
 ```
 git clone https://github.com/praveenorugantitech/praveenorugantitech-amazon-clone-reactjs.git
 cd praveenorugantitech-amazon-clone-reactjs
-npm install
 
 create .env file and include your firebase details
 
@@ -27,6 +26,7 @@ create .env file and include your firebase details
 	REACT_APP_FIREBASE_MESSAGE_SENDER_ID=  ""
 	REACT_APP_FIREBASE_APP_ID= ""
 
+npm install
 npm start
 
 ```
